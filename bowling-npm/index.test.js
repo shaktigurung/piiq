@@ -1,6 +1,5 @@
 const  BowlingGame = require('./index');
 
-test('The Bowling Game', () => {
-    const game = new BowlingGame() ;
- 
-  });
+test('adds given array of scores', () => {
+  expect(BowlingGame([1,2])).toBe(3);
+});
