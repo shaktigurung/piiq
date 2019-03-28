@@ -1,0 +1,14 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "a function to calculate bowling score",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "shakti gurung",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
